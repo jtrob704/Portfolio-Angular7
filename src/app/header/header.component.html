@@ -2,10 +2,10 @@
   <div class="inner">
     <h3 class="masthead-brand">Cover</h3>
     <nav class="nav nav-masthead justify-content-center">
-      <a class="nav-link active" routerLink="">Home</a>
-      <a class="nav-link" routerLink="/about">About</a>
-      <a class="nav-link" routerLink="/projects">Projects</a>
-      <a class="nav-link" routerLink="/contact">Contact</a>
+      <a class="nav-link" [routerLink]="['']" routerLinkActive="active-link" [routerLinkActiveOptions]="{exact: true}">Home</a>
+      <a class="nav-link" [routerLink]="['about']" routerLinkActive="active-link" [routerLinkActiveOptions]="{exact: true}">About</a>
+      <a class="nav-link" [routerLink]="['projects']" routerLinkActive="active-link" [routerLinkActiveOptions]="{exact: true}">Projects</a>
+      <a class="nav-link" [routerLink]="['contact']" routerLinkActive="active-link" [routerLinkActiveOptions]="{exact: true}">Contact</a>
     </nav>
   </div>
 </header>

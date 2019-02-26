@@ -19,8 +19,7 @@
     border-bottom: .25rem solid transparent;
   }
   
-  .nav-masthead .nav-link:hover,
-  .nav-masthead .nav-link:focus {
+  .nav-masthead .nav-link:hover {
     border-bottom-color: rgba(255, 255, 255, .25);
   }
   
@@ -28,7 +27,8 @@
     margin-left: 1rem;
   }
   
-  .nav-masthead .active {
+  .nav-masthead .active-link,
+  .nav-masthead .nav-link:focus {
     color: #fff;
     border-bottom-color: #fff;
   }
