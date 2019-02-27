@@ -2,12 +2,13 @@
  * Header
  */
  .masthead {
+    padding-top: 1em;
     margin-bottom: 2rem;
   }
   
   .masthead-brand {
     margin-left: 1em;
-    margin-bottom: 0;    
+    margin-bottom: 0;      
   }
   
   .nav-masthead .nav-link {

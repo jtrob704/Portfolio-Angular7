@@ -1,12 +1,12 @@
 body, html {
     height: 100%;
     margin: 0;    
-    color: white;
+    color: #fff;
   }
   
   .bg {
     /* The image used */
-    background-image: url("/assets/coast-3358820_1920.jpg");
+    background-image: url("/assets/geometric-1732847_1920.jpg");
   
     /* Full height */
     height: 100%; 
@@ -14,7 +14,7 @@ body, html {
     /* Center and scale the image nicely */
     background-position: center;
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: cover;        
   }
 
   h1 { 
