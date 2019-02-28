@@ -8,7 +8,9 @@
   
   .masthead-brand {
     margin-left: 1em;
-    margin-bottom: 0;      
+    margin-bottom: 0;  
+    padding: .25em;
+    border: 4px solid #fff;    
   }
   
   .nav-masthead .nav-link {
