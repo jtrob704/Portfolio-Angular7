@@ -1,0 +1,8 @@
+.project-list {
+    margin-top: 10em;
+    margin-left: 40em;
+    color: #253E7A;    
+    height: 40em;
+    width: 50em;
+    overflow-y: scroll;
+}
