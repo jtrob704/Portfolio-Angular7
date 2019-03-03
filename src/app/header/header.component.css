@@ -9,8 +9,8 @@
   .masthead-brand {
     margin-left: 1em;
     margin-bottom: 0;  
-    padding: .25em;
-    border: 4px solid #fff;    
+    padding: .25em;    
+    border: 4px solid #cc0000;    
   }
   
   .nav-masthead .nav-link {
@@ -33,7 +33,7 @@
   .nav-masthead .active-link,
   .nav-masthead .nav-link:focus {
     color: #fff;
-    border-bottom-color: #fff;
+    border-bottom-color: #cc0000;
   }
   
   @media (min-width: 48em) {
