@@ -6,6 +6,7 @@ export const ProjectList: Project[] =  [
         name: 'Project 1',
         description: 'Project 1 description',
         thumbnail: 'https://via.placeholder.com/290x240.png',
+        tags: ['Angular', 'Bootstrap'],
         url: 'http://www.example.com/1'
     },
     {
@@ -13,6 +14,7 @@ export const ProjectList: Project[] =  [
         name: 'Project 2',
         description: 'Project 2 description',
         thumbnail: 'https://via.placeholder.com/290x240.png',
+        tags: ['Knockout', 'jQuery'],
         url: 'http://www.example.com/2'
     },
     {
@@ -20,6 +22,7 @@ export const ProjectList: Project[] =  [
         name: 'Project 3',
         description: 'Project 3 description',
         thumbnail: 'https://via.placeholder.com/290x240.png',
+        tags: ['Python', 'Django'],
         url: 'http://www.example.com/3'
     },
     {
@@ -27,6 +30,7 @@ export const ProjectList: Project[] =  [
         name: 'Project 4',
         description: 'Project 4 description',
         thumbnail: 'https://via.placeholder.com/290x240.png',
+        tags: ['Pandas', 'NumPy'],
         url: 'http://www.example.com/4'
     },
     {
@@ -34,6 +38,7 @@ export const ProjectList: Project[] =  [
         name: 'Project 5',
         description: 'Project 5 description',
         thumbnail: 'https://via.placeholder.com/290x240.png',
+        tags: ['R', 'GGplot'],
         url: 'http://www.example.com/5'
     }
 ];

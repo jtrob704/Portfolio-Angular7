@@ -4,12 +4,15 @@
       <div class="col-md-4">
         <img src="{{project.thumbnail}}" class="card-img" alt="{{project.name}}">
       </div>
-      <div class="col-md-8">
+      <div class="col-md-4">
         <div class="card-body">
           <h5 class="card-title">{{project.name}}</h5>
-          <p class="card-text">{{project.description}}</p>        
-          <a target="_blank" rel="noopener noreferrer" href="{{project.url}}">View on GitHub</a>        
+          <p class="card-text">{{project.description}}</p>
+          <span class="badge badge-pill badge-primary" *ngFor="let tag of project.tags">{{ tag }}</span>
+          <a target="_blank" rel="noopener noreferrer" href="{{project.url}}">View on GitHub</a>
         </div>
+      </div>
+      <div class="col-md-4">
       </div>
     </div>
   </div>

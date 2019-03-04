@@ -3,5 +3,6 @@ export class Project {
     name: string;
     description: string;
     thumbnail: string;
+    tags: Array<string>;
     url: string;
 }
