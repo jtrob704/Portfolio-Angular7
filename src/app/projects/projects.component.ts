@@ -1,5 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { ProjectList } from '../project-list';
+import * as $ from 'jquery';
 
 @Component({
   selector: 'app-projects',
@@ -13,6 +14,6 @@ export class ProjectsComponent implements OnInit {
   constructor() { }
 
   ngOnInit() {
-  }
 
+  }
 }
