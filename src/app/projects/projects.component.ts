@@ -1,6 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { ProjectList } from '../project-list';
-import * as $ from 'jquery';
+declare let $: any;
 
 @Component({
   selector: 'app-projects',

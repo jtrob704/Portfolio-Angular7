@@ -1,32 +1,31 @@
-.project-list {
-    margin-top: 10em;
-    margin-left: 40em;
-    color: #253E7A;    
-    height: 40em;
-    width: 50em; 
-    overflow-y: scroll;
+.container {
+  padding-top: 15em;
 }
 
-a {
-  text-decoration: none;
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+  background-color: black;
 }
 
-/* width */
-::-webkit-scrollbar {
-    width: 10px;
-  }
-  
-  /* Track */
-  ::-webkit-scrollbar-track {
-    background: #f1f1f1; 
-  }
-  
-  /* Handle */
-  ::-webkit-scrollbar-thumb {
-    background: #253E7A; 
-  }
-  
-  /* Handle on hover */
-  ::-webkit-scrollbar-thumb:hover {
-    background: #2163A6; 
-  }
+.carousel-control-prev,
+.carousel-control-next {
+  background: none;
+  border: none;
+  bottom: 0%;
+}
+
+.carousel-control-prev {
+  margin-left: 180px;
+}
+
+.carousel-control-next {
+  margin-right: 350px;
+}
+
+.carousel-control {
+  width: 0%;
+}
+
+.card-body {
+  color: blue;
+}
