@@ -1,7 +1,12 @@
 .intro {
-    padding-top: 20em;    
+    padding-top: 20em;   
+    text-shadow: 1px 1px; 
 }
 
 h3 {
     font-weight: 200;
+}
+
+#brand {
+    color: #cc0000;    
 }
