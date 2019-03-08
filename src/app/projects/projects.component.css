@@ -1,31 +1,7 @@
 .container {
-  padding-top: 15em;
+  padding-top: 5em;
 }
 
-.carousel-control-prev-icon,
-.carousel-control-next-icon {
-  background-color: black;
-}
-
-.carousel-control-prev,
-.carousel-control-next {
-  background: none;
-  border: none;
-  bottom: 0%;
-}
-
-.carousel-control-prev {
-  margin-left: 180px;
-}
-
-.carousel-control-next {
-  margin-right: 350px;
-}
-
-.carousel-control {
-  width: 0%;
-}
-
-.card-body {
-  color: blue;
+#project-badge {
+  margin-right: .5em;
 }
