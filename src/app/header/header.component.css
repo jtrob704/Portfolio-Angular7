@@ -40,6 +40,10 @@
     color: #fff;
     border-bottom-color: #cc0000;
   }
+
+  h3 {
+    cursor: pointer;
+  }
   
   @media (min-width: 48em) {
     .masthead-brand {

@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+declare let $: any;
 
 @Component({
   selector: 'app-contact',
@@ -11,5 +12,4 @@ export class ContactComponent implements OnInit {
 
   ngOnInit() {
   }
-
 }
