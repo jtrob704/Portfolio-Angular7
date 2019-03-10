@@ -2,6 +2,7 @@ function submitToAPI(e) {
     e.preventDefault();
     var URL = "https://woj8p121s0.execute-api.us-east-1.amazonaws.com/production/contact-me";
 
+    // Validate contact form fields
     var nameVal = /[A-Za-z]{1}[A-Za-z]/;
     if (!nameVal.test($("#name").val())) {
         $("#messages").addClass("alert-danger");
@@ -30,6 +31,7 @@ function submitToAPI(e) {
         return;
     }
 
+    // Create model for contact form data
     var name = $("#name").val();
     var email = $("#email").val();
     var subject = $("#subject").val();
@@ -41,6 +43,7 @@ function submitToAPI(e) {
         message: message
     };
 
+    // Make API call to AWS Lambda function
     $.ajax({
         type: "POST",
         url: "https://woj8p121s0.execute-api.us-east-1.amazonaws.com/production/contact-me",
