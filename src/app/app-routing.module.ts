@@ -8,19 +8,23 @@ import { ContactComponent } from './contact/contact.component';
 const routes: Routes = [
   {
     path: '',
-    component: HomeComponent
+    component: HomeComponent,
+    data: { animation: 'HomePage' }
   },
   {
     path: 'about',
-    component: AboutComponent
+    component: AboutComponent,
+    data: { animation: 'AboutPage' }
   },
   {
     path: 'projects',
-    component: ProjectsComponent
+    component: ProjectsComponent,
+    data: { animation: 'ProjectsPage' }
   },
   {
     path: 'contact',
-    component: ContactComponent
+    component: ContactComponent,
+    data: { animation: 'ContactsPage' }
   }
 ];
 
