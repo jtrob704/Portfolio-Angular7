@@ -7,6 +7,10 @@ h3 {
     font-weight: 200;
 }
 
+button {
+    background-color: #cc0000;
+}
+
 #brand {
     color: #cc0000;    
     font-weight: 400;

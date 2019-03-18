@@ -3,7 +3,7 @@
  */
  .masthead {
     padding-top: 1em;
-    margin-bottom: 2rem;
+    margin-bottom: 2rem;   
   }
 
   #brand {
@@ -41,9 +41,24 @@
     border-bottom-color: #cc0000;
   }
 
+  #linkedin, #github{
+    border-bottom: none;
+  }
+
+  #linkedin {
+    padding-left: 2em;
+    border-left: 2px solid #cc0000;
+  }
+
   h3 {
     cursor: pointer;
   }
+
+ /* nav {
+    border-right-style: solid;
+    border-right-color: #cc0000;
+    
+  } */
   
   @media (min-width: 48em) {
     .masthead-brand {
