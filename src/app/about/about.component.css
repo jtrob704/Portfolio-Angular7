@@ -1,5 +1,29 @@
 .about {
-    padding-top: 10em;    
+    padding-top: 5em;    
+}
+
+.card {
+    border-right: 1px solid;
+}
+
+i {
+    color: #cc0000;
+}
+
+#resume-dl {
+    margin-top: 2em;
+}
+
+#resume-dl a {
+    margin-top: 1em;
+    margin-right: 2em;    
+    background-color: #cc0000;
+    width: 10em;
+}
+
+#resume-dl i {
+    margin-left: .5em;
+    color: #fff;
 }
 
 /*.lead {
