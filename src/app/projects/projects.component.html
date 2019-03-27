@@ -10,7 +10,7 @@
         </div>
         </div>
         <div class="card-footer" id="github-btn">
-            <span class="badge badge-primary" id="project-badge" *ngFor="let tag of project.tags">{{tag}}</span>
+            <span class="badge badge-primary" id="project-badge" *ngFor="let tag of project.tags" title="{{tag}}">{{tag}}</span>
           <a class="btn btn-primary bg-white text-primary" target="_blank" rel="noopener" href="{{project.url}}"
             title="View on Github"><i class="fab fa-github" aria-hidden="true"></i> View on
             Github</a>

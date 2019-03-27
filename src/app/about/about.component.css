@@ -3,7 +3,11 @@
 }
 
 .card {
-    border-right: 1px solid;
+    border-right: 1px solid;    
+}
+
+.card-body {
+    margin-left: 2em;
 }
 
 i {
