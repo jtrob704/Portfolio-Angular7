@@ -1,20 +1,19 @@
 <div class="container">
-  <div class="row">    
+  <div class="row">
     <div class="col-md-3 d-flex" id="project-entry" *ngFor="let project of projects">
-      <div class="card text-primary mb-3 text-center" id="project-card">        
-          <img class="card-img-top img-fluid" alt="{{project.name}} screenshot"
-            src="{{project.thumbnail}}" />
+      <div class="card text-primary mb-3 text-center" id="project-card">
+        <img class="card-img-top img-fluid" alt="{{project.name}} screenshot" src="{{project.thumbnail}}" />
         <div class="card-body">
-            <h4 class="card-title">{{project.name}}</h4>          
+          <h4 class="card-title">{{project.name}}</h4>
           <p class="card-text">{{project.description}}</p>
-          <span class="badge badge-primary" id="project-badge" *ngFor="let tag of project.tags">{{tag}}</span>
+          <div class="d-flex justify-content-center" id="badge-group">          
         </div>
-        <div class="card-body d-flex align-items-end" id="github-btn">
-          <span>
-            <a class="btn btn-primary bg-white text-primary" target="_blank" rel="noopener"
-              href="{{project.url}}" title="View on Github"><i class="fab fa-github" aria-hidden="true"></i> View on
-              Github</a>
-          </span>
+        </div>
+        <div class="card-footer" id="github-btn">
+            <span class="badge badge-primary" id="project-badge" *ngFor="let tag of project.tags">{{tag}}</span>
+          <a class="btn btn-primary bg-white text-primary" target="_blank" rel="noopener" href="{{project.url}}"
+            title="View on Github"><i class="fab fa-github" aria-hidden="true"></i> View on
+            Github</a>
         </div>
       </div>
     </div>

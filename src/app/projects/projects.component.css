@@ -1,5 +1,5 @@
 .container {
-  padding-top: 4em;
+  padding-top: 5em;
 }
 
 .card-body {
@@ -7,11 +7,11 @@
 }
 
 #project-badge {
-  margin-right: .5em;
+  margin-right: .5em;  
   background-color: #cc0000;
   margin-bottom: 2px;
 }
 
-#github-btn {
-  margin-left: 2.5em;
+#badge-group {
+  padding-bottom: none;
 }
