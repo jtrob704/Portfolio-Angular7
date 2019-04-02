@@ -30,6 +30,8 @@ i {
     color: #fff;
 }
 
-/*.lead {
-    background-color: #2163A6;
-} */
+@media only screen and (max-width: 600px) {
+    .about {
+        padding-top: 2em;    
+    }
+}

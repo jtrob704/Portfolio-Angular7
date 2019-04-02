@@ -6,14 +6,17 @@
         <div class="card-body">
           <h4 class="card-title">{{project.name}}</h4>
           <p class="card-text">{{project.description}}</p>
-          <div class="d-flex justify-content-center" id="badge-group">          
-        </div>
+          <div class="d-flex justify-content-center" id="badge-group">
+          </div>
         </div>
         <div class="card-footer" id="github-btn">
-            <span class="badge badge-primary" id="project-badge" *ngFor="let tag of project.tags" title="{{tag}}">{{tag}}</span>
-          <a class="btn btn-primary bg-white text-primary" target="_blank" rel="noopener" href="{{project.url}}"
-            title="View on Github"><i class="fab fa-github" aria-hidden="true"></i> View on
-            Github</a>
+          <div class="badge badge-primary" id="project-badge" *ngFor="let tag of project.tags" title="{{tag}}">{{tag}}
+          </div>
+          <div>
+            <a class="btn btn-primary bg-white text-primary" target="_blank" rel="noopener" href="{{project.url}}"
+              title="View on Github"><i class="fab fa-github" aria-hidden="true"></i> View on
+              Github</a>
+          </div>
         </div>
       </div>
     </div>

@@ -19,3 +19,9 @@
 .btn {
   margin-top: 1em;
 }
+
+@media only screen and (max-width: 600px) {
+  .container {
+    padding-top: 2em;
+  }
+}

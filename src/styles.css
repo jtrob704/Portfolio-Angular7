@@ -22,3 +22,19 @@ body, html {
     margin: 0;
     padding: 0;
 }
+
+@media only screen and (max-width: 600px) {  
+  .bg {
+    /* The image used */
+    background-image: url("/assets/images/geometric-1732847_1920.jpg");
+  
+    /* Full height */
+    height: 100%; 
+  
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;   
+    overflow: auto;     
+  }
+}
