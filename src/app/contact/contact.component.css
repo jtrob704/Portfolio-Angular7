@@ -7,9 +7,13 @@ button {
     background-color: #cc0000;
 }
 
+input, textarea {
+    min-width: 10em;
+}
+
 .contact-form {
     padding-top: 10em;
-    padding-left: 40em;
+    padding-left: 40em;    
 }
 
 .fas {
