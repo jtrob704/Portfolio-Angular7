@@ -1,0 +1,66 @@
+﻿J.T. Robinson
+jt@jtrob.com
+www.jtrob.com
+
+Professional Summary
+Results-driven change agent with career-long record of operations, software development, and network engineering success for leading organizations
+Proven talent for aligning business strategy and objectives with established network engineering and operations management paradigms to achieve maximum operational impacts with minimum resource expenditures. Growth-focused thought leader with expertise spanning web development, network engineering, telecommunications, troubleshooting, team leadership, technical support, front end development, cross-functional team collaboration, wireless networking, operations optimization, network design, data analysis, technology solutions, and project management. Exceptionally dedicated professional with keen interpersonal, communication, and organizational skills.
+
+Professional Experience
+
+AT&T Mobility, Charlotte, NC, June 2010 to Present
+SPECIALIST – NETWORK SUPPORT – WIRELESS ACCESS FUNCTIONS, September 2018 to Present
+    • Enhance the customer experience of a wireless network consisting of more than 100,000 cell sites by reviewing and analyzing key performance indicators.
+    • Demoed an Angular based storefront for mobile phone sales.
+    • Serve as a team lead, heading the training of over 30 network engineers on next generation network technologies.
+    • Optimize operations through the development of prediction models from big data sets to forecast future network growth and usage.
+    • Direct software deployments and configurations of wireless network elements.
+    • Analyze and optimize mobile to mobile interconnect trunk groups to accommodate increasing traffic, initiating direct connects with wireless carriers, reducing bandwidth, resulting in costs savings.
+    • Improve process flows and problem resolution by tracking customer interactions and escalations.
+    • Research solutions from various sources and apply documented procedures to resolve hardware and software issues for internal and external customers.
+    • Perform system software maintenance and product upgrades.
+SPECIALIST – NETWORK CONTROL – TRANSPORT &RF PERFORMANCE, June 2010 to August 2018
+    • Maintained responsibility for the remote maintenance and troubleshooting of AT&T Mobility’s Packet Core IP footprint spanning all 50 U.S. states, Puerto Rico and the U.S. Virgin Islands. Also responsible for the remote maintenance and troubleshooting of AT&T Mobility’s Radio Access Network.
+    • Analyzed network transport performance data to identify degradation for over 60,000 access and core network elements.
+    • Employed analytical and problem-solving skills to resolve transport defects efficiently. 
+    • Evaluated new hardware and software deployments for quality before acceptance into the live network, ensuring continued streamlined operations. 
+    • Improved overall network reliability through successful collaboration with tech vendors, outside consultants, and internal resources.
+    • Garnered knowledge of remote troubleshooting of cell site related issues with an emphasis on sector and cell sites OOS restoration (Ericsson and Nortel RAN platforms).
+    • Processed reports to identify Chronic RAN issues and facilitate timely repairs as needed.
+BellSouth/AT&T Southeast, Charlotte, NC, April 2001 to June 2010
+LOOP ACCESS ANALYST
+    • Examined and managed DSL/DLC issues including remote troubleshooting and software loading. 
+    • Utilized WFA/C, LMOS, NMA, and AOTS systems to facilitate effective resolutions. 
+    • Offered Tier II technical support for Field Work Group. 
+    • Oversaw and maintained AT&T/SE transport systems, such as Alcatel-Lucent 1000, 7300 and 7330 series of DSLAMS; Ciena CNX5 series; Tellabs FITL-A, IFITL, MXDISCS, and DISCS platforms; Adtran TA3000, AFC UMC1000; Alcatel-Lucent CBX-500, BSTDX-9000, and GX-550 Core ATM and Frame Relay switches; Cisco 7609 and Alcatel Omniswitch Metro Ethernet Platforms; EAR and BAR Competitive Broadband Networks including knowledge of Juniper M320 & T640; Fujitsu and Alcatel-Lucent multiplexers. 
+    • Created, developed, and delivered formal training for NRC Electronic Technicians on Digital Loop Carrier and Digital Subscriber Line technologies resulting in significant reductions in training costs utilizing Microsoft Office products. 
+    • Formed an ADSL Technician Skills Assessment to identify areas where NRC technicians could benefit from additional training. 
+    • Delivered individualized on the floor training to various team members as a floor support technician. 
+    • Executed Bridge Manager duties including collaborating with Field Work Group and Network Dispatch center to significantly reduce outage durations. 
+    • Wrote job aids on ATM troubleshooting to assist Electronic Technicians in troubleshooting. 
+    • Used WORDDOC, LEIS/LEIM, GRANITE, LFACS, PLANET and WBCM systems to assist in isolating failure points. 
+    • Employed both Windows and UNIX based computer systems. 
+    • Recognized for continued outstanding performance, three-time Global Network Operations Service Leader Award Winner (May 2008, September 2008 and August 2009).
+Education and Credentials
+
+Computer Technology, 2001
+ECPI University, Charlotte, NC
+Certifications
+
+    • Data Analyst, Udacity, 2019
+    • Front End Web Development, Udacity, 2019
+    • Full Stack Web Developer, Udacity, 2017
+    • Front End Web Developer, Udacity, 2015
+
+Awards and Honors
+
+    • Global Network Operations Service Award Leader, May 2008, September 2008 and August 2009
+Additional Information
+
+Technical Proficiencies: HTML, CSS, JavaScript, Python, Angular, R, Tableau, SQL, AWS, Windows, Linux (Red Hat, Ubuntu), servers, routers, LAN, wireless LAN, Microsoft Exchange, Active Directory, Microsoft Office Suite, Microsoft Project, Access, Visual Basic
+
+Interests: Motorcycling, golfing, competitive online gaming
+Portfolio Site: www.jtrob.com
+
+References available upon request
+
