@@ -5,9 +5,7 @@ www.jtrob.com
 Professional Summary
 Results-driven change agent with career-long record of operations, software development, and network engineering success for leading organizations
 Proven talent for aligning business strategy and objectives with established network engineering and operations management paradigms to achieve maximum operational impacts with minimum resource expenditures. Growth-focused thought leader with expertise spanning web development, network engineering, telecommunications, troubleshooting, team leadership, technical support, front end development, cross-functional team collaboration, wireless networking, operations optimization, network design, data analysis, technology solutions, and project management. Exceptionally dedicated professional with keen interpersonal, communication, and organizational skills.
-
 Professional Experience
-
 AT&T Mobility, Charlotte, NC, June 2010 to Present
 SPECIALIST – NETWORK SUPPORT – WIRELESS ACCESS FUNCTIONS, September 2018 to Present
     • Enhance the customer experience of a wireless network consisting of more than 100,000 cell sites by reviewing and analyzing key performance indicators.
@@ -51,14 +49,12 @@ Certifications
     • Front End Web Development, Udacity, 2019
     • Full Stack Web Developer, Udacity, 2017
     • Front End Web Developer, Udacity, 2015
-
 Awards and Honors
 
     • Global Network Operations Service Award Leader, May 2008, September 2008 and August 2009
 Additional Information
 
-Technical Proficiencies: HTML, CSS, JavaScript, Python, Angular, R, Tableau, SQL, AWS, Windows, Linux (Red Hat, Ubuntu), servers, routers, LAN, wireless LAN, Microsoft Exchange, Active Directory, Microsoft Office Suite, Microsoft Project, Access, Visual Basic
-
+Technical Proficiencies: HTML, CSS, JavaScript, Python, Angular, Visual Basic, Git, Travis CI/CD, Jenkins, Jest, R, Tableau, SQL, AWS, Windows, Linux (Red Hat, Ubuntu), servers, routers, LAN, wireless LAN, Microsoft Exchange, Active Directory, Microsoft Office Suite, Microsoft Project, Access, Visual Basic
 Interests: Motorcycling, golfing, competitive online gaming
 Portfolio Site: www.jtrob.com
 
