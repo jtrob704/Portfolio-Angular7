@@ -3,9 +3,12 @@ jt@jtrob.com
 www.jtrob.com
 
 Professional Summary
+
 Results-driven change agent with career-long record of operations, software development, and network engineering success for leading organizations
 Proven talent for aligning business strategy and objectives with established network engineering and operations management paradigms to achieve maximum operational impacts with minimum resource expenditures. Growth-focused thought leader with expertise spanning web development, network engineering, telecommunications, troubleshooting, team leadership, technical support, front end development, cross-functional team collaboration, wireless networking, operations optimization, network design, data analysis, technology solutions, and project management. Exceptionally dedicated professional with keen interpersonal, communication, and organizational skills.
+
 Professional Experience
+
 AT&T Mobility, Charlotte, NC, June 2010 to Present
 SPECIALIST – NETWORK SUPPORT – WIRELESS ACCESS FUNCTIONS, September 2018 to Present
     • Enhance the customer experience of a wireless network consisting of more than 100,000 cell sites by reviewing and analyzing key performance indicators.
@@ -17,7 +20,8 @@ SPECIALIST – NETWORK SUPPORT – WIRELESS ACCESS FUNCTIONS, September 2018 to 
     • Improve process flows and problem resolution by tracking customer interactions and escalations.
     • Research solutions from various sources and apply documented procedures to resolve hardware and software issues for internal and external customers.
     • Perform system software maintenance and product upgrades.
-SPECIALIST – NETWORK CONTROL – TRANSPORT &RF PERFORMANCE, June 2010 to August 2018
+
+SPECIALIST – NETWORK CONTROL – TRANSPORT & RF PERFORMANCE, June 2010 to August 2018
     • Maintained responsibility for the remote maintenance and troubleshooting of AT&T Mobility’s Packet Core IP footprint spanning all 50 U.S. states, Puerto Rico and the U.S. Virgin Islands. Also responsible for the remote maintenance and troubleshooting of AT&T Mobility’s Radio Access Network.
     • Analyzed network transport performance data to identify degradation for over 60,000 access and core network elements.
     • Employed analytical and problem-solving skills to resolve transport defects efficiently. 
@@ -25,6 +29,7 @@ SPECIALIST – NETWORK CONTROL – TRANSPORT &RF PERFORMANCE, June 2010 to Augus
     • Improved overall network reliability through successful collaboration with tech vendors, outside consultants, and internal resources.
     • Garnered knowledge of remote troubleshooting of cell site related issues with an emphasis on sector and cell sites OOS restoration (Ericsson and Nortel RAN platforms).
     • Processed reports to identify Chronic RAN issues and facilitate timely repairs as needed.
+
 BellSouth/AT&T Southeast, Charlotte, NC, April 2001 to June 2010
 LOOP ACCESS ANALYST
     • Examined and managed DSL/DLC issues including remote troubleshooting and software loading. 
@@ -39,6 +44,7 @@ LOOP ACCESS ANALYST
     • Used WORDDOC, LEIS/LEIM, GRANITE, LFACS, PLANET and WBCM systems to assist in isolating failure points. 
     • Employed both Windows and UNIX based computer systems. 
     • Recognized for continued outstanding performance, three-time Global Network Operations Service Leader Award Winner (May 2008, September 2008 and August 2009).
+
 Education and Credentials
 
 Computer Technology, 2001
@@ -49,13 +55,16 @@ Certifications
     • Front End Web Development, Udacity, 2019
     • Full Stack Web Developer, Udacity, 2017
     • Front End Web Developer, Udacity, 2015
+
 Awards and Honors
 
     • Global Network Operations Service Award Leader, May 2008, September 2008 and August 2009
+
 Additional Information
 
 Technical Proficiencies: HTML, CSS, JavaScript, Python, Angular, Visual Basic, Git, Travis CI/CD, Jenkins, Jest, R, Tableau, SQL, AWS, Windows, Linux (Red Hat, Ubuntu), servers, routers, LAN, wireless LAN, Microsoft Exchange, Active Directory, Microsoft Office Suite, Microsoft Project, Access, Visual Basic
 Interests: Motorcycling, golfing, competitive online gaming
+
 Portfolio Site: www.jtrob.com
 
 References available upon request
