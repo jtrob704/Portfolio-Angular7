@@ -22,14 +22,13 @@ import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
     ProjectsComponent,
     ContactComponent
   ],
-  imports:[
- CommonModule,
-NgtUniversalModule,
- 
- TransferHttpCacheModule,
-HttpClientModule,
- 
-    
+  imports: [
+    CommonModule,
+    NgtUniversalModule,
+
+    TransferHttpCacheModule,
+    HttpClientModule,
+
     BrowserAnimationsModule,
     AppRoutingModule
   ],
