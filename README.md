@@ -12,11 +12,14 @@ This project is my developer portfolio showcasing information about me and my we
 - Navigate to `http://localhost:8080` in your browser.
 
 ## Tech
+
 Built with:
+
 - Angular 7
 - Bootstrap
 - FontAwesome
 - AWS Lambda
 
 ## License
+
 MIT ©  J.T. Robinson
